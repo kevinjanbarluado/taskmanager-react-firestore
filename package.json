@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "install:server": "cd server && npm install",
-    "install:client": "cd client && npm install",
+    "install:server": "cd server && npm install && cp .env.example .env",
+    "install:client": "cd client && npm install && cp .env.example .env",
     "install": "npm run install:server && npm run install:client",
     "start:server": "cd server && npm start",
     "start:client": "cd client && npm start",
