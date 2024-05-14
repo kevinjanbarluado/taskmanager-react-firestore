@@ -1,4 +1,4 @@
-# Task Manager using React and Firestore Firebase)
+# Task Manager using React and Firestore Firebase
 
 Task management application using ReactJS,
 Fastify (for the backend), and Firebase Firestore. The application should allow users to
