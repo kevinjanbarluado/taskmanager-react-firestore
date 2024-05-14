@@ -63,7 +63,7 @@ Here’s a step-by-step guide to set up Firestore in Native mode and integrate i
 - Click on the project drop-down menu at the top of the page and select "New Project".
 - Enter a project name and click "Create".
 
-2.Enable Firestore:
+2. Enable Firestore:
 - Navigate to the Firestore section in the Google Cloud Console.
 - Select your project from the project drop-down menu.
 - Click "Create Database".
