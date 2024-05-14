@@ -44,7 +44,7 @@ npm install
 # Install dependencies in both server and client directories (see package.json to see scripts)
 npm run install
 
-# One done, duplicate service-account-key.json.example to service-account-key.json
+# Once done, duplicate service-account-key.json.example to service-account-key.json
 cp server/config/service-account-key.json.example server/config/service-account-key.json
 
 # Follow the instruction below how to get the service account key, and overwrite 'server/config/service-account-key.json' file
